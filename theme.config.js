@@ -4,7 +4,7 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Roméo Provenzano - Etudiant BTS SIO.
+        <time>{YEAR}</time> © Roméo Provenzano - Portfolio BTS SIO.
         <a href="https://www.linkedin.com/in/rom%C3%A9o-provenzano/">LinkedIn 📢</a>
         <br/>
         <a href="https://github.com/Romeoprov">GitHub 💻</a>
