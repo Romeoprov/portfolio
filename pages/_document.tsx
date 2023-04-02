@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Roméo Provenzano - Etudiant BTS SIO',
+    title: 'Roméo Provenzano - Portfolio BTS SIO',
     description: 'Portfolio BTS SIO - 2023',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
   }
