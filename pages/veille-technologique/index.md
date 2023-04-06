@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Veille technlogique
+title: Veille technologique
 date: 2021-03-18
 ---
 
