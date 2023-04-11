@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://r-provenzano</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Apr 2023 10:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 10:20:16 GMT</lastBuildDate>
         <atom:link href="https://r-provenzano/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[09/2022 - Analyse des services techniques destinés aux postes de travail Windows]]></title>
@@ -61,6 +61,14 @@
             <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tableau de synthèse des compétences]]></title>
+            <description><![CDATA[Tableau de synthèse des compétences]]></description>
+            <link>/posts/tableau-de-synthese-des-competences</link>
+            <guid isPermaLink="true">/posts/tableau-de-synthese-des-competences</guid>
+            <category><![CDATA[Tableau de synthèse des compétences]]></category>
+            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[01/2022 - Réponse à un ticket Support utilisateur Niveau 1]]></title>
             <description><![CDATA[Déploiement d'un PC Portatble pour un personnel]]></description>
             <link>/posts/reponse-a-un-ticket-support-utilisateur-niveau-1</link>
@@ -68,14 +76,6 @@
             <category><![CDATA[Répondre aux incidents et aux demandes d’assistance et d’évolution]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tableau de synthèse des compétences]]></title>
-            <description><![CDATA[Tableau de synthèse des compétences]]></description>
-            <link>/posts/tableau-de-synthese-des-competences</link>
-            <guid isPermaLink="true">/posts/tableau-de-synthese-des-competences</guid>
-            <category><![CDATA[Tableau de synthèse des compétences]]></category>
-            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
