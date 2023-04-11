@@ -14,7 +14,7 @@ Dans cette situation, sera présentée un cas fictif de demande d'intervention s
 
 ## Résumé 
 
-Un ticket à été ouvert par la directice du conseil d'administration pour prévenir de l'arrivée d'un nouveau personnel administratif dans son équipe, M. Dupont. Il est le nouveau directeur des comptes clés de l'entreprise.
+Un ticket a été ouvert par la directice du conseil d'administration pour prévenir de l'arrivée d'un nouveau personnel administratif dans son équipe, M. Dupont. Il est le nouveau directeur des comptes clés de l'entreprise.
 
 Je décide de prendre en charge l'intervention pour son arrivée.
 
