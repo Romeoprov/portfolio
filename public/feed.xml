@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://r-provenzano</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Apr 2023 13:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 17:22:34 GMT</lastBuildDate>
         <atom:link href="https://r-provenzano/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[09/2022 - Analyse des services techniques destinés aux postes de travail Windows]]></title>
@@ -25,6 +25,15 @@
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
+            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
+            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
+            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
+            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
+            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[01/2022 - Création d'un site Web pour développer une présence en ligne]]></title>
             <description><![CDATA[Blog WordPress "Windows VS Linux",mise en œuvre technique, rédaction d'articles et application du RGPD.]]></description>
             <link>/posts/creation-d-un-site-web-pour-developper-une-presence-en-ligne</link>
@@ -43,30 +52,13 @@
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
-            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
-            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
-            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
-            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
-            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implémenter Markdown, le language pour améliorer la prise de note et la production de documentation]]></title>
-            <description><![CDATA[Apprenez ce qu'est Markdown et apprenez à l'utiliser]]></description>
-            <link>/posts/implemenenter-markdown</link>
-            <guid isPermaLink="true">/posts/implemenenter-markdown</guid>
+            <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
+            <description><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></description>
+            <link>/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</link>
+            <guid isPermaLink="true">/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</guid>
             <category><![CDATA[Veille technologique]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tableau de synthèse des compétences]]></title>
-            <description><![CDATA[Tableau de synthèse des compétences]]></description>
-            <link>/posts/tableau-de-synthese-des-competences</link>
-            <guid isPermaLink="true">/posts/tableau-de-synthese-des-competences</guid>
-            <category><![CDATA[Tableau de synthèse des compétences]]></category>
-            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[01/2022 - Réponse à un ticket Support utilisateur Niveau 1]]></title>
@@ -78,13 +70,21 @@
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
-            <description><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></description>
-            <link>/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</link>
-            <guid isPermaLink="true">/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</guid>
+            <title><![CDATA[Tableau de synthèse des compétences]]></title>
+            <description><![CDATA[Tableau de synthèse des compétences]]></description>
+            <link>/posts/tableau-de-synthese-des-competences</link>
+            <guid isPermaLink="true">/posts/tableau-de-synthese-des-competences</guid>
+            <category><![CDATA[Tableau de synthèse des compétences]]></category>
+            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Implémenter Markdown, le language pour améliorer la prise de note et la production de documentation]]></title>
+            <description><![CDATA[Apprenez ce qu'est Markdown et apprenez à l'utiliser]]></description>
+            <link>/posts/implemenenter-markdown</link>
+            <guid isPermaLink="true">/posts/implemenenter-markdown</guid>
             <category><![CDATA[Veille technologique]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
