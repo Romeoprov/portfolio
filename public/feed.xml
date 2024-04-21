@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://r-provenzano</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Apr 2024 12:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 09:11:54 GMT</lastBuildDate>
         <atom:link href="https://r-provenzano/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[09/2022 - Analyse des services techniques destinés aux postes de travail Windows]]></title>
@@ -23,15 +23,6 @@
             <category><![CDATA[Création d'infrastructures réseaux CISCO]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
-            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
-            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
-            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
-            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
-            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Implémenter Markdown, le language pour améliorer la prise de note et la production de documentation]]></title>
@@ -69,6 +60,15 @@
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
+            <description><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></description>
+            <link>/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</link>
+            <guid isPermaLink="true">/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</guid>
+            <category><![CDATA[Veille technologique]]></category>
+            <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[01/2023 - Confrontation de la solution de déploiement BMC avec MDT (Microsoft Deployment Toolkit)]]></title>
             <description><![CDATA[Tests sur un nouvel outil de déploiement d'OS, Microsoft Deployment Toolkit.]]></description>
             <link>/posts/confrontation-de-la-solution-de-deploiement-bmc-avec-mdt</link>
@@ -78,13 +78,13 @@
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
-            <description><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></description>
-            <link>/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</link>
-            <guid isPermaLink="true">/posts/utiliser-git-le-gestionnaire-de-gestion-de-code</guid>
-            <category><![CDATA[Veille technologique]]></category>
+            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
+            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
+            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
+            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
+            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
