@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://r-provenzano</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 Nov 2024 13:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 17:59:40 GMT</lastBuildDate>
         <atom:link href="https://r-provenzano/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[09/2022 - Analyse des services techniques destinés aux postes de travail Windows]]></title>
@@ -34,13 +34,13 @@
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Implémenter Markdown, le language pour améliorer la prise de note et la production de documentation]]></title>
-            <description><![CDATA[Apprenez ce qu'est Markdown et apprenez à l'utiliser]]></description>
-            <link>/posts/implemenenter-markdown</link>
-            <guid isPermaLink="true">/posts/implemenenter-markdown</guid>
-            <category><![CDATA[Veille technologique]]></category>
+            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
+            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
+            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
+            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
+            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tableau de synthèse des compétences]]></title>
@@ -60,13 +60,13 @@
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[05/2022 - Déploiement des produits Microsoft Office 2021]]></title>
-            <description><![CDATA[Outils Office Deployment Tools, scripts PowerShell]]></description>
-            <link>/posts/deploiement-des-produits-microsoft-office-2021</link>
-            <guid isPermaLink="true">/posts/deploiement-des-produits-microsoft-office-2021</guid>
-            <category><![CDATA[Mettre à disposition des utilisateurs un service informatique]]></category>
+            <title><![CDATA[Implémenter Markdown, le language pour améliorer la prise de note et la production de documentation]]></title>
+            <description><![CDATA[Apprenez ce qu'est Markdown et apprenez à l'utiliser]]></description>
+            <link>/posts/implemenenter-markdown</link>
+            <guid isPermaLink="true">/posts/implemenenter-markdown</guid>
+            <category><![CDATA[Veille technologique]]></category>
             <dc:creator><![CDATA[Roméo Provenzano]]></dc:creator>
-            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Utiliser GIT, le gestionnaire de version de code]]></title>
